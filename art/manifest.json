@@ -38,6 +38,7 @@
   "face": {
     "hero": "face_hero.png",
     "friend": "face_friend.png",
+    "friend_ending": "face_friend_ending.png",
     "captain": "face_captain.png",
     "doctor": "face_doctor.png",
     "shopkeeper": "face_shopkeeper.png",
